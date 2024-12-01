@@ -1,4 +1,4 @@
-# Advent of Code in Swift (Template)
+# Advent of Code 2015 in Swift
 
 [![Language](https://img.shields.io/badge/language-Swift-red.svg)](https://swift.org)
 
