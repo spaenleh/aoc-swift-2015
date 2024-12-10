@@ -10,4 +10,5 @@ struct Day04Tests {
     let challenge = Day04(data: "abcdef\n")
     #expect(challenge.part1() == 609043)
   }
+
 }
