@@ -4,10 +4,6 @@ import Testing
 
 @Suite("Day05")
 struct Day05Tests {
-  let testData = """
-
-    """
-
   @Test("isNice1")
   func testIsNice1() async throws {
     // nice

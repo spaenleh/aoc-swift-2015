@@ -1,6 +1,6 @@
 import Algorithms
 
-struct Day00: AdventDay {
+struct Day06: AdventDay {
   var data: String
 
   func part1() -> Int {
